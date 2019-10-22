@@ -1,0 +1,39 @@
+{
+  "server_info": {
+    "name": "",
+    "scheme": "",
+    "dns_address": "",
+    "access_port": "",
+    "api_version": "",
+    "default_content_type": "",
+    "test_path": ""
+  },
+  "variables": [],
+  "user": {
+    "name": "",
+    "email": ""
+  },
+  "tests": [
+    {
+      "title": "",
+      "path": "",
+      "cases": [
+        {
+          "description": "",
+          "endpoint": "",
+          "code_expected": 0,
+          "method": "",
+          "headers": {},
+          "body": {},
+          "return_expected": [],
+          "variables_to_save": [
+            "var_x->var_y"
+          ],
+          "turbo_test": false
+        }
+      ],
+      "loop_times": 0,
+      "parent": false
+    }
+  ]
+}
